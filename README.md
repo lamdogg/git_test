@@ -1,0 +1,1 @@
+This is lamdogg's first git project!
